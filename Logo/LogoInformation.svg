@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1221.8126"
+   height="386.15314"
+   viewBox="0 0 1221.8126 386.15314"
+   id="svg4399"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LogoInformation.svg">
+  <defs
+     id="defs4401" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51102377"
+     inkscape:cx="610.90633"
+     inkscape:cy="193.07657"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     inkscape:window-x="41"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4404">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1122.3349,-179.28564)">
+    <g
+       transform="translate(-791.00221,-33.125069)"
+       id="g4378">
+      <rect
+         ry="0.52284497"
+         rx="1.86579"
+         y="212.41071"
+         x="-331.33267"
+         height="386.15314"
+         width="1221.8126"
+         id="rect4376"
+         style="opacity:0.9;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:0.17716534;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text3631"
+         y="351.75391"
+         x="-253.73505"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:100%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           style="font-size:80px;fill:#ffffff"
+           y="351.75391"
+           x="-253.73505"
+           id="tspan3633"
+           sodipodi:role="line">Our green colour is #4E9A06, or RGB(78, 154, 6)</tspan><tspan
+           style="font-size:80px;fill:#ffffff"
+           id="tspan3635"
+           y="431.75391"
+           x="-253.73505"
+           sodipodi:role="line">(the darkest green from the Tango palette)</tspan><tspan
+           style="font-size:80px;fill:#ffffff"
+           id="tspan3637"
+           y="511.75391"
+           x="-253.73505"
+           sodipodi:role="line">Our font is League Gothic</tspan></text>
+    </g>
+  </g>
+</svg>
